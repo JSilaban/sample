@@ -4262,4 +4262,3 @@ Action ended 18:20:14: INSTALL. Return value 3.
 MSI (c) (50:F4) [18:20:14:682]: Product: Node.js -- Installation failed.
 
 MSI (c) (50:F4) [18:20:14:682]: Windows Installer installed the product. Product Name: Node.js. Product Version: 6.10.3. Product Language: 1033. Manufacturer: Node.js Foundation. Installation success or error status: 1603.
-
